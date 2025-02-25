@@ -23,3 +23,7 @@ Thumbs.db
 
 # VS Code specific files
 .vscode/
+
+# Model files
+*.keras
+*.h5
