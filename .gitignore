@@ -27,3 +27,6 @@ Thumbs.db
 # Model files
 *.keras
 *.h5
+
+# Env
+.venv/
